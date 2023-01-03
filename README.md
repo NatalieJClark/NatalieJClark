@@ -33,7 +33,7 @@
 ## Courses Completed
 
 Aug-Oct 2022: **Code First Girls - Introduction to Python & Apps** *(First Place)* <br>
-Jun-Aug 2022: **Code First Girls - Intriduction to Wed Development** *(First Place)*
+Jun-Aug 2022: **Code First Girls - Introduction to Wed Development** *(First Place)*
 
 ## My Projects
 
