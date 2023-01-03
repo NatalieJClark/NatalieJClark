@@ -1,14 +1,15 @@
 ![Header](./github-header-img.png)
 
 
-# Hi there 👋 I'm Natalie
+# Hi there 👋🏻 I'm Natalie
 
 ## About Me
 
-- I'm a medical school graduate with a passion for coding.
+- I'm a medical school graduate with a passion for coding 💻.
 - I'm looking to career switch into a software development role, in which I can further my training.
+- When I'm not coding, I'm also a keen dancer 🩰, potter 🏺 and yogi 🧘🏼‍♀️.
 
-## Languages I'm Learning
+## Languages / Frameworks / Tools I'm Learning
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -18,15 +19,11 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
-## Frameworks I'm Learning
-
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
-
-## Tools I'm Learning
 
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -35,5 +32,5 @@
 
 ## Courses Completed
 
-Aug-Oct 2022: **Code First Girls - Introduction to Python & Apps**     *(First Place)* <br>
-Jun-Aug 2022: **Code First Girls - Intriduction to Wed Development**     *(First Place)*
+Aug-Oct 2022: **Code First Girls - Introduction to Python & Apps** *(First Place)* <br>
+Jun-Aug 2022: **Code First Girls - Intriduction to Wed Development** *(First Place)*
