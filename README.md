@@ -34,3 +34,15 @@
 
 Aug-Oct 2022: **Code First Girls - Introduction to Python & Apps** *(First Place)* <br>
 Jun-Aug 2022: **Code First Girls - Intriduction to Wed Development** *(First Place)*
+
+## My Projects
+
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nataliejclark&repo=danceldn&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nataliejclark&repo=pokemonGame&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nataliejclark&repo=FirstWebsite&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+
+## My Contributions
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nataliejclark&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nataliejclark&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliejclark&layout=compact&theme=cobalt&hide_border=true" />
