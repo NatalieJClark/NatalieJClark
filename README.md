@@ -5,8 +5,8 @@
 
 ## About Me
 
-- Medical school graduate with a passion for coding.
-- Looking to career switch into a software development role, in which I can further my training.
+- I'm a medical school graduate with a passion for coding.
+- I'm looking to career switch into a software development role, in which I can further my training.
 
 ## Languages I'm Learning
 
