@@ -39,7 +39,6 @@ Jun-Aug 2022: **Code First Girls - Intriduction to Wed Development** *(First Pla
 
 [<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nataliejclark&repo=danceldn&theme=react&bg_color=273849&title_color=A0FFFE&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> ](https://github.com/NatalieJClark/danceldn)
 [<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nataliejclark&repo=pokemonGame&theme=react&bg_color=273849&title_color=A0FFFE&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> ](https://github.com/NatalieJClark/pokemonGame)
-[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nataliejclark&repo=FirstWebsite&theme=react&bg_color=273849&title_color=A0FFFE&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/NatalieJClark/FirstWebsite)
 
 ## My Contributions
 
