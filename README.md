@@ -1,7 +1,8 @@
+# Hi there 👋🏻 I'm Natalie
+
 ![Header](./github-header-img.png)
 
 
-# Hi there 👋🏻 I'm Natalie
 
 ## About Me
 
