@@ -29,6 +29,7 @@
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_chatGPT-3C4A4A?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ## Courses Completed
@@ -36,7 +37,7 @@
 Aug-Oct 2022: **Code First Girls - Introduction to Python & Apps** *(First Place)* <br>
 Jun-Aug 2022: **Code First Girls - Introduction to Wed Development** *(First Place)*
 
-## My Projects
+## My Favourite Projects
 
 [<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nataliejclark&repo=danceldn&theme=react&bg_color=273849&title_color=A0FFFE&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> ](https://github.com/NatalieJClark/danceldn)
 [<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nataliejclark&repo=pokemonGame&theme=react&bg_color=273849&title_color=A0FFFE&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> ](https://github.com/NatalieJClark/pokemonGame)
