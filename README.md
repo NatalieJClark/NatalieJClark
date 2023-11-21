@@ -40,6 +40,7 @@ Jun-Aug 2022: **Code First Girls - Introduction to Wed Development** *(First Pla
 
 ## Favourite Projects
 
+[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nataliejclark&repo=my-makers-journey&theme=nightowl&title_color=c792ea&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> ](https://github.com/NatalieJClark/my-makers-journey)
 [<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nataliejclark&repo=danceldn&theme=nightowl&title_color=c792ea&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> ](https://github.com/NatalieJClark/danceldn)
 [<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nataliejclark&repo=pokemonGame&theme=nightowl&&title_color=c792ea&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> ](https://github.com/NatalieJClark/pokemonGame)
 
