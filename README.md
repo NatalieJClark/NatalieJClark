@@ -7,8 +7,8 @@
 ## About Me
 
 - I'm a Google Software Engineering apprentice
-- I'm a medical school graduate 👩🏻‍⚕️.
-- When I'm not coding, I'm also a keen dancer 🩰, potter 🏺 and yogi 🧘🏼‍♀️.
+- I'm a medical school graduate 👩🏻‍⚕️
+- When I'm not coding, I'm also a keen dancer 🩰, potter 🏺 and yogi 🧘🏼‍♀️
 
 ## Languages / Frameworks / Tools I'm Learning
 
