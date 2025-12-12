@@ -6,7 +6,7 @@
 
 ## About Me
 
-- I'm a Google Software Engineering Apprentice
+- I'm a Google Software Engineering Apprentice (my recent repos are private)
 - I'm a medical school graduate 👩🏻‍⚕️
 - When I'm not coding, I'm also a keen dancer 🩰, potter 🏺 and yogi 🧘🏼‍♀️
 
@@ -23,7 +23,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/SwiftUI-1572B6?style=for-the-badge&logo=swiftui&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-0066CC?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-1ad97c?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -41,6 +41,7 @@
 
 ## Courses Completed
 
+2023-2025: **Level 4 Software Developer** *(Distinction)* <br>
 Aug-Oct 2022: **Code First Girls - Introduction to Python & Apps** *(First Place)* <br>
 Jun-Aug 2022: **Code First Girls - Introduction to Wed Development** *(First Place)*
 
