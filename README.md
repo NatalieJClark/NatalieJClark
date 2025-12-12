@@ -13,6 +13,7 @@
 ## Languages / Frameworks / Tools I'm Learning
 
 <p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-a249e6?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -45,13 +46,4 @@ Jun-Aug 2022: **Code First Girls - Introduction to Wed Development** *(First Pla
 ## Favourite Projects
 
 [<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nataliejclark&repo=my-makers-journey&theme=nightowl&title_color=c792ea&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> ](https://github.com/NatalieJClark/my-makers-journey)
-[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nataliejclark&repo=danceldn&theme=nightowl&title_color=c792ea&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> ](https://github.com/NatalieJClark/danceldn)
-[<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nataliejclark&repo=pokemonGame&theme=nightowl&&title_color=c792ea&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> ](https://github.com/NatalieJClark/pokemonGame)
 
-## Contributions
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nataliejclark&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nataliejclark&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="My github stats" /> 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliejclark&layout=compact&theme=nightowl&hide_border=true" />
